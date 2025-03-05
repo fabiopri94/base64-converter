@@ -1,21 +1,48 @@
-# Base64 String Converter
+# 🔄 Base64 String Converter [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Convertitore di stringhe in Base64 con Python. Questo strumento permette di codificare e decodificare stringhe utilizzando l'alfabeto Base64, comunemente usato per la trasmissione di dati binari su canali di comunicazione testuali.
+![Base64 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Base64_logo.svg/1200px-Base64_logo.svg.png)
 
-## Caratteristiche
-- Codifica stringhe in Base64
-- Decodifica stringhe Base64 in testo normale
-- Supporto per caratteri UTF-8
-- Utilizzo semplice tramite linea di comando o integrazione in altri script
+_Il magico traduttore di stringhe in Base64 e viceversa_ ✨
 
-## Requisiti
-- Python 3.x
+## 🌟 Caratteristiche Principali
+- 🔒 Codifica sicura di stringhe in Base64
+- 🔓 Decodifica immediata di stringhe Base64
+- 🌐 Supporto completo UTF-8 per caratteri speciali
+- 🤖 Utilizzabile sia da CLI che come modulo Python
+- 🚨 Gestione automatica degli errori
 
-## Installazione
-Clona il repository:
+## 🛠️ Requisiti Tecnici
+- Python 3.8 o superiore
+- 💻 Qualsiasi sistema operativo moderno (Windows/macOS/Linux)
+
+## 🚀 Utilizzo Istantaneo
+py main.py
+
+### 📥 Installazione
 ```bash
 git clone https://github.com/fabiopri94/base64-converter.git
 cd base64-converter
 
-## Avvio
-py main.py
+🤖 Comandi CLI
+
+Codifica una stringa:
+python base64_converter.py encode "Ciao mondo!" 🌍
+# Output: Q2lhbzEgbW9uZG8h
+
+Decodifica Base64:
+python base64_converter.py decode "Q2lhbzEgbW9uZG8h" 🧩
+# Output: Ciao mondo!
+
+
+🤝 Contribuire
+Vuoi migliorare il progetto? Ecco come:
+
+1- Forka il repository 🍴
+2-Crea una nuova branch (git checkout -b feature/x) 🌿
+3-Fai il commit delle modifiche (git commit -m 'Nuova funzionalità') ✅
+4-Pusha la branch (git push origin feature/x) 📤
+5-Apri una Pull Request 🎁
+
+📜 Licenza
+Questo progetto è rilasciato sotto licenza MIT.
+Created with ❤️ by Fabio
