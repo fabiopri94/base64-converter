@@ -16,4 +16,6 @@ Clona il repository:
 ```bash
 git clone https://github.com/fabiopri94/base64-converter.git
 cd base64-converter
+
+## Avvio
 py main.py
