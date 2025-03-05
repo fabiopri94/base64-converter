@@ -20,8 +20,7 @@ py main.py
 git clone https://github.com/fabiopri94/base64-converter.git
 cd base64-converter
 
-🤖 Comandi CLI
-
+#### 🤖 Comandi CLI
 Codifica una stringa:
 python base64_converter.py encode "Ciao mondo!" 🌍
 # Output: Q2lhbzEgbW9uZG8h
@@ -30,8 +29,7 @@ Decodifica Base64:
 python base64_converter.py decode "Q2lhbzEgbW9uZG8h" 🧩
 # Output: Ciao mondo!
 
-
-🤝 Contribuire
+## <a id="contribuire"></a> 🤝 Contribuire
 Vuoi migliorare il progetto? Ecco come:
 
 1- Forka il repository 🍴
@@ -40,6 +38,6 @@ Vuoi migliorare il progetto? Ecco come:
 4-Pusha la branch (git push origin feature/x) 📤
 5-Apri una Pull Request 🎁
 
-📜 Licenza
+######  <a id="license"></a> 📜 Licenza
 Questo progetto è rilasciato sotto licenza MIT.
 Created with ❤️ by Fabio
