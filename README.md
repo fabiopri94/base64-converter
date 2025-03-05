@@ -1,6 +1,6 @@
 # 🔄 Base64 String Converter [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Base64 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Base64_logo.svg/1200px-Base64_logo.svg.png)
+![Base64 Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fbase-64&psig=AOvVaw3XJxU2knl0gFdgtouPnPE5&ust=1741293536782000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiYo4rm84sDFQAAAAAdAAAAABAE)
 
 _Il magico traduttore di stringhe in Base64 e viceversa_ ✨
 
